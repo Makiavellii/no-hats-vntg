@@ -1,5 +1,5 @@
 # No Hats VNTG
-Bringing TF2 2010 to 2021!
+Bringing 2012 TF2 to 2021!
 
 This mod is a custom version of the [No Hats BGUM mod](https://github.com/Fedora31/no-hats-bgum) by Fedora31 however, it only allows hats/cosmetics available in [Vintage](https://wiki.teamfortress.com/wiki/Vintage) quality to be shown.
 
